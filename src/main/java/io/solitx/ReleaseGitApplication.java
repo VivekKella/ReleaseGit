@@ -8,6 +8,7 @@ public class ReleaseGitApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReleaseGitApplication.class, args);
+		System.out.println("src code modified");
 	}
 
 }
